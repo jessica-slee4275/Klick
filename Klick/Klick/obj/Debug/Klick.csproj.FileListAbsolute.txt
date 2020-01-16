@@ -1,0 +1,7 @@
+c:\users\asdfk\source\repos\Klick\Klick\bin\Debug\Klick.exe.config
+c:\users\asdfk\source\repos\Klick\Klick\bin\Debug\Klick.exe
+c:\users\asdfk\source\repos\Klick\Klick\bin\Debug\Klick.pdb
+c:\users\asdfk\source\repos\Klick\Klick\obj\Debug\Klick.csprojAssemblyReference.cache
+c:\users\asdfk\source\repos\Klick\Klick\obj\Debug\Klick.csproj.CoreCompileInputs.cache
+c:\users\asdfk\source\repos\Klick\Klick\obj\Debug\Klick.exe
+c:\users\asdfk\source\repos\Klick\Klick\obj\Debug\Klick.pdb
